@@ -1,1 +1,2 @@
-maxapi
+aiohttp>=3.9
+
